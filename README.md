@@ -4,7 +4,7 @@ The gold standard corpus for medication question answering introduced in the Med
 
 
 If you use this dataset, please cite the following paper: 
-  Bridging the Gap between Consumers’ Medication Questions and Trusted Answers. Asma Ben Abacha, Yassine Mrabet, Mark Sharp, Travis  Goodwin, Sonya E. Shooshan and and Dina Demner-Fushman. MEDINFO 2019.   
+  Bridging the Gap between Consumers’ Medication Questions and Trusted Answers. Asma Ben Abacha, Yassine Mrabet, Mark Sharp, Travis  Goodwin, Sonya E. Shooshan and Dina Demner-Fushman. MEDINFO 2019.   
 
 	@inproceedings{BenAbacha:MEDINFO19, 
 		   author    = {Asma {Ben Abacha} and Yassine Mrabet and Mark Sharp and
