@@ -1,6 +1,6 @@
 # Medication_QA_MedInfo2019
 
-The gold standard corpus for medication question answering introduced in the MedInfo 2019 paper (Bridging the Gap between Consumers’ Medication Questions and Trusted Answers). 
+The gold standard corpus for medication question answering introduced in the MedInfo 2019 paper "Bridging the Gap between Consumers’ Medication Questions and Trusted Answers": http://ebooks.iospress.nl/publication/51941 
 
 
 If you use this dataset, please cite the following paper: 
