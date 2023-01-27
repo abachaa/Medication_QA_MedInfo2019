@@ -16,4 +16,4 @@ If you use this dataset, please cite the following paper:
 
 Contact Information
 -------------------
-- Asma Ben Abacha: asma.benabacha@nih.gov
+- Asma Ben Abacha: asma.benabacha AT gmail.com
